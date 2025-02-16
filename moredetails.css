@@ -1,0 +1,23 @@
+*{
+    padding: auto;
+    margin: auto;
+}
+.job{
+    font-style: 'Montserrat',display;
+    font-weight: 800;
+    font-size: 75px;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+}
+.list{
+    font-size: 50px;
+    font-style: 'Cabin Sketch',display;
+    font-weight: 500;
+
+}
+.details{
+    font-size: 45px;
+    font-style: 'Pacifico',display;
+    font-weight: 600;
+}
