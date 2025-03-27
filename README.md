@@ -38,9 +38,5 @@ To run the project locally, follow these steps:
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork the repository, create a new branch, and submit a pull request with your improvements.
 
-## 📜 License
-This project is open-source and available under the [MIT License](LICENSE).
 
-## 📧 Contact
-For any questions or suggestions, feel free to reach out via [GitHub Issues](https://github.com/ArshiBansal/Job_portal_webpage/issues).
 
